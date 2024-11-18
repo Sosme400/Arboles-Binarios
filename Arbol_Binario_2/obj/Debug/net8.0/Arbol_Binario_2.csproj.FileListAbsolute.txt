@@ -1,0 +1,4 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Arbol_Binario_2\obj\Debug\net8.0\Arbol_Binario_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Arbol_Binario_2\obj\Debug\net8.0\Arbol_Binario_2.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Arbol_Binario_2\obj\Debug\net8.0\Arbol_Binario_2.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Arbol_Binario_2\obj\Debug\net8.0\Arbol_Binario_2.csproj.CoreCompileInputs.cache

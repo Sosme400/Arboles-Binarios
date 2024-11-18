@@ -1,0 +1,28 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Arbol_Binario_3\bin\Debug\net6.0-windows\Arbol_Binario_3.exe
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Arbol_Binario_3\bin\Debug\net6.0-windows\Arbol_Binario_3.deps.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Arbol_Binario_3\bin\Debug\net6.0-windows\Arbol_Binario_3.runtimeconfig.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Arbol_Binario_3\bin\Debug\net6.0-windows\Arbol_Binario_3.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Arbol_Binario_3\bin\Debug\net6.0-windows\Arbol_Binario_3.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Arbol_Binario_3\obj\Debug\net6.0-windows\Arbol_Binario_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Arbol_Binario_3\obj\Debug\net6.0-windows\Arbol_Binario_3.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Arbol_Binario_3\obj\Debug\net6.0-windows\Arbol_Binario_3.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Arbol_Binario_3\obj\Debug\net6.0-windows\Arbol_Binario_3.csproj.CoreCompileInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Arbol_Binario_3\obj\Debug\net6.0-windows\Arbol_Binario_3.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Arbol_Binario_3\obj\Debug\net6.0-windows\refint\Arbol_Binario_3.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Arbol_Binario_3\obj\Debug\net6.0-windows\Arbol_Binario_3.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Arbol_Binario_3\obj\Debug\net6.0-windows\Arbol_Binario_3.genruntimeconfig.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Arbol_Binario_3\obj\Debug\net6.0-windows\ref\Arbol_Binario_3.dll
+C:\Users\Jesus\OneDrive\Escritorio\Practica2-main\Arbol_Binario_3\bin\Debug\net6.0-windows\Arbol_Binario_3.exe
+C:\Users\Jesus\OneDrive\Escritorio\Practica2-main\Arbol_Binario_3\bin\Debug\net6.0-windows\Arbol_Binario_3.deps.json
+C:\Users\Jesus\OneDrive\Escritorio\Practica2-main\Arbol_Binario_3\bin\Debug\net6.0-windows\Arbol_Binario_3.runtimeconfig.json
+C:\Users\Jesus\OneDrive\Escritorio\Practica2-main\Arbol_Binario_3\bin\Debug\net6.0-windows\Arbol_Binario_3.dll
+C:\Users\Jesus\OneDrive\Escritorio\Practica2-main\Arbol_Binario_3\bin\Debug\net6.0-windows\Arbol_Binario_3.pdb
+C:\Users\Jesus\OneDrive\Escritorio\Practica2-main\Arbol_Binario_3\obj\Debug\net6.0-windows\Arbol_Binario_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus\OneDrive\Escritorio\Practica2-main\Arbol_Binario_3\obj\Debug\net6.0-windows\Arbol_Binario_3.AssemblyInfoInputs.cache
+C:\Users\Jesus\OneDrive\Escritorio\Practica2-main\Arbol_Binario_3\obj\Debug\net6.0-windows\Arbol_Binario_3.AssemblyInfo.cs
+C:\Users\Jesus\OneDrive\Escritorio\Practica2-main\Arbol_Binario_3\obj\Debug\net6.0-windows\Arbol_Binario_3.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\OneDrive\Escritorio\Practica2-main\Arbol_Binario_3\obj\Debug\net6.0-windows\Arbol_Binario_3.dll
+C:\Users\Jesus\OneDrive\Escritorio\Practica2-main\Arbol_Binario_3\obj\Debug\net6.0-windows\refint\Arbol_Binario_3.dll
+C:\Users\Jesus\OneDrive\Escritorio\Practica2-main\Arbol_Binario_3\obj\Debug\net6.0-windows\Arbol_Binario_3.pdb
+C:\Users\Jesus\OneDrive\Escritorio\Practica2-main\Arbol_Binario_3\obj\Debug\net6.0-windows\Arbol_Binario_3.genruntimeconfig.cache
+C:\Users\Jesus\OneDrive\Escritorio\Practica2-main\Arbol_Binario_3\obj\Debug\net6.0-windows\ref\Arbol_Binario_3.dll

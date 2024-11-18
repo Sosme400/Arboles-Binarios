@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType> <!-- Especifica que es una aplicación gráfica de Windows -->
+    <TargetFramework>net6.0-windows</TargetFramework> <!-- O usa net7.0-windows o net8.0-windows según tu versión de .NET -->
+    <UseWindowsForms>true</UseWindowsForms> <!-- Habilita el soporte para Windows Forms -->
+  </PropertyGroup>
+
+</Project>

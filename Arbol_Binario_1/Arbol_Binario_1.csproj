@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType> <!-- Tipo de salida para una aplicación de Windows -->
+    <TargetFramework>net8.0-windows</TargetFramework> <!-- Versión de .NET con soporte para Windows -->
+    <UseWindowsForms>true</UseWindowsForms> <!-- Habilitar soporte para Windows Forms -->
+    <ImplicitUsings>enable</ImplicitUsings> <!-- Habilitar `using` implícitos -->
+    <Nullable>enable</Nullable> <!-- Habilitar tipos anulables -->
+  </PropertyGroup>
+
+</Project>
